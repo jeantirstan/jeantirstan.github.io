@@ -1,8 +1,8 @@
-title: Abdullahnz's Notes
-author: Nizam Abdullah
-email: edfallennzm@gmail.com
+title: Jean Tirstan Notes
+author: Jean Tirstan
+email: jeant2212@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Personal blog of Nizam Abdullah.
+  Personal blog of Jean Tirstan.
 show_excerpts: true # set to true to show excerpts on the homepage
 profile_image: "assets/portfolio.png"
 # Minima date format
@@ -10,24 +10,24 @@ profile_image: "assets/portfolio.png"
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Nizam Abdullah
+  name: Jean Tirstan
   tagline: Student.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
-  disqus_shortname: abdullahnz
+  disqus_shortname: jeantirstan
   navigation:
     - title: Categories
       url: "/categories"
   # generate social links in footer
   social_links: 
-    github:  abdullahnz 
+    github:  jeantirstan 
     rss: rss 
-    instagram: abdullahnz_  
-    facebook: profile.php?id=100006254298767 
-    telegram: abdullahnzz
+    instagram: jeant__  
+    facebook: jeant22 
+    telegram: neverdieneverlost
   
 
 # If you want to link only specific pages in your header, uncomment
