@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Categories | Abdullahnz's Notes
+title: Categories | Jean Tirstan Notes
 ---
 <div id="archives">
 {% for category in site.categories %}
