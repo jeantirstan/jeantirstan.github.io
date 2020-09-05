@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Final Icyption 2020 Write-Up"
-date: 2020-08-6 12:25:05 +0530
+date: 2020-09-5 12:25:05 +0530
 categories:
   - WriteUp
   - Final
@@ -31,7 +31,7 @@ J8pRND46rbHKmPuz4zWBNaWYzuo8uP6Kit4eFCnCgjGP7JWe8e9CVaK2LitS7CmeQdcCueM
 ```
 Jadi setelah saya identifikasi ternyata cipher yang di pakai ada lah base58,jadi saya coba untuk mendecode nya,dan benar langsung saya decode.
 
-![FLAG](https://abdullahnz.github.io/assets/images/3.png)
+![FLAG](https://jeantirstan.github.io/assets/images/3.png)
 
 ### Flag
 
@@ -44,9 +44,9 @@ Diberikan sebuah file `data.img` dimana command `file` pada linux tidak dapat me
 
 Disini untuk mensolvedkan soal ini saya memakai tool online yaitu autopsy,dan saat saya sudah mengimport filenya ,saya langsung menuju ke image extentions,dan saat sudah mencheck ke 30 gambar tsb,saya melihat 1 gambar yang terdaat flag di dalamnya.
 
-![FIX](https://abdullahnz.github.io/assets/images/ss.png)
+![FIX](https://jeantirstan.github.io/assets/images/ss.png)
 
-![FLAG](https://abdullahnz.github.io/assets/images/4.jpg)
+![FLAG](https://jeantirstan.github.io/assets/images/4.jpg)
 
 ### Flag
 
@@ -58,13 +58,13 @@ Disini untuk mensolvedkan soal ini saya memakai tool online yaitu autopsy,dan sa
 
 Awalnya hanya diberikan service nc saja tidak ada file binary-nya sampai ada yang tanya jurinya.
 
-![DISCORD](https://abdullahnz.github.io/assets/images/9.png)
+![DISCORD](https://jeantirstan.github.io/assets/images/9.png)
 **maaf nama tidak disensor.*
 
 Akhirnya file binary-nya dibagi, dan didalamnya terdapat flag XD.
 Langsung eksekusi saja.
 
-![FLAG](https://abdullahnz.github.io/assets/images/2.png)
+![FLAG](https://jeantirstan.github.io/assets/images/2.png)
 
 ### Flag
 
