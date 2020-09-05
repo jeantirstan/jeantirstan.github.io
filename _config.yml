@@ -4,7 +4,7 @@ email: jeant2212@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Personal blog of Jean Tirstan.
 show_excerpts: true # set to true to show excerpts on the homepage
-profile_image: "assets/portfolio.png"
+profile_image: "assets/1.jpg"
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
