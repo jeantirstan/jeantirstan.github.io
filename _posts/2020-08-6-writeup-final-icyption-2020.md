@@ -59,6 +59,7 @@ Disini untuk mensolvedkan soal ini saya memakai tool online yaitu autopsy,dan sa
 Awalnya hanya diberikan service nc saja tidak ada file binary-nya sampai ada yang tanya jurinya.
 
 ![DISCORD](https://jeantirstan.github.io/assets/images/9.png)
+
 **maaf nama tidak disensor.*
 
 Akhirnya file binary-nya dibagi, dan didalamnya terdapat flag XD.
@@ -71,3 +72,6 @@ Langsung eksekusi saja.
 `icyption{m4u_d4p3t_b34s1sw4}`\
 <br />
 
+## Penutup
+
+Sekian Terimakasih.
