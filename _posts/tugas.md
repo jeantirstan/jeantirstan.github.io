@@ -3,7 +3,7 @@ layout: post
 title: "Cache Memory"
 date: 2020-12-3 10:55
 categories:
-  - Tugas
+  - Writeup
 ---
 
 ## Apa itu Cache Memory ?
